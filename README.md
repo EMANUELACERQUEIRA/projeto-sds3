@@ -38,7 +38,7 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/KalebeSantana/projeto-sds3
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto backend
 cd backend
 
 # executar o projeto
@@ -52,8 +52,8 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/KalebeSantana/projeto-sds3
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto frontend 
+cd frontend
 
 # instalar dependências
 yarn install
