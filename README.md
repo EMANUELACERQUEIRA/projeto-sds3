@@ -10,7 +10,10 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 
 
 ## Layout 
+![Web 1](https://github.com/KalebeSantana/projeto-sds3/blob/master/assets/DSVendas%20-%20Google%20Chrome%2010_05_2021%2013_15_09.png)
 
+## Dashboard
+![Web 2](https://github.com/KalebeSantana/projeto-sds3/blob/master/assets/DSVendas%20-%20Google%20Chrome%2010_05_2021%2012_46_12.png)
 
 # Tecnologias utilizadas
 ## Back end
