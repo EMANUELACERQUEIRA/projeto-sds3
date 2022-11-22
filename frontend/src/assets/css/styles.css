@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 :root {
-    --color-primary: #FF8400;
+    --color-primary: #004588;
+    --color-secondary: #f34c4c;
 }
 
 html, body {
@@ -29,4 +30,8 @@ html, body {
 
 .text-primary {
     color: var(--color-primary) !important;
+}
+
+.text-secondary {
+    color: var(--color-secondary) !important;
 }
